@@ -18,7 +18,7 @@ Algorithms available are:
 
 Planning to add other famous algorithms in future and further modify my website.
 
-<!-- Check out my website here :- https://pshashank083.github.io/Algorithm-Visualizer/ -->
+Check out my website here :- https://rishabh28920.github.io/AlgorithmVisualizer/
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 _____________________________________________________________________________________________________________________________________________________________________________
 
